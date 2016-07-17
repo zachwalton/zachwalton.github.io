@@ -6,7 +6,10 @@ permalink: /resume/
 
 software engineering @ .
 
-### _software_
+...
+
+### **software.**
+
 every day:
 
 {% include icon-check-square-o.html %} `bin/python2.7`
@@ -16,9 +19,11 @@ every day:
 
 here and there:
 
-{% include icon-check-square-o.html %}`ruby`  `c`
+{% include icon-check-square-o.html %}`ruby`  `c` `standard js` `es6` `reactjs` `bootstrapjs` `angularjs` `html` `css3`
 
-### _infrastructure_
+...
+
+### **infrastructure.**
 
 every day:
 
@@ -39,11 +44,15 @@ here and there:
 {% include icon-check-square-o.html %} `bare metal deployment`
 `kickstart` `chef` `emc isilon` `zfs` `zfs 7420` `SAN` `mellanox infiniband` `CDN` `akamai GTM`
 
-### _toolset_
+...
+
+### **toolset.**
 
 {% include icon-check-square-o.html %} `macOS` `linux (debian + rhel)` `vim` `macvim` `ansible` `git` `bash`
 
-### _experience_
+...
+
+### **experience.**
 
 ####  **apple**
 
