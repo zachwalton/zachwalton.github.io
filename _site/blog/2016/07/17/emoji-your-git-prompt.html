@@ -6,12 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>zach walton</title>
-  <meta name="description" content="software engineer @  in the san francisco bay area. good at dance dance revolution. into mountain biking, paddleboarding, backpacking, and video games.
-">
+  <title>🤖  $(git commit -m &quot;initial commit&quot;)</title>
+  <meta name="description" content="old blog posts are hosted on blogspot.">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://zachwalton.com/">
+  <link rel="canonical" href="http://zachwalton.com/blog/2016/07/17/emoji-your-git-prompt.html">
   <link rel="alternate" type="application/rss+xml" title="zach walton" href="http://zachwalton.com/feed.xml">
 </head>
 
@@ -55,80 +54,20 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="home">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">🤖  $(git commit -m "initial commit")</h1>
+    <p class="post-meta"><time datetime="2016-07-17T09:28:18-07:00" itemprop="datePublished">Jul 17, 2016</time></p>
+  </header>
 
-  <div class="blog-index">  
-    
-    
-    
-<h1 class="entry-title">
+  <div class="post-content" itemprop="articleBody">
+    <p>old blog posts are hosted on <a href="https://zachwalton.blogspot.com">blogspot</a>.</p>
 
-
-    <a href="/bash/emoji/git/2016/07/17/emoji-your-git-prompt.html">fill your git prompt with emoji</a>
-
-</h1>
-<div class="entry-content"><p>every programmer should consider it a duty to put emoji everywhere they will fit. i use <a href="https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh">git-prompt.sh</a> to track my repo status, but by default it’s a bit drab. luckily, it’s pretty easy to spruce up.</p>
-
-<p><a href="https://gist.github.com/zachwalton/c601a8057d1bf80aac1dc1215f7d9e45">here’s the emoji version.</a></p>
-
-<p>to install (note: only tested with bash, and will override existing <code class="highlighter-rouge">$PROMPT_COMMAND</code>):</p>
-
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash">curl -o ~/.git-prompt.sh https://gist.githubusercontent.com/zachwalton/c601a8057d1bf80aac1dc1215f7d9e45/raw/99862b8e30ac3d41662dffa927e5054ba4e72b51/git-prompt.sh
-cat <span class="sh">&lt;&lt;EOF | tee -a ~/.bash_profile
-# load git prompt
-. ~/.git-prompt.sh
-
-export GIT_PS1_SHOWDIRTYSTATE=true
-export GIT_PS1_SHOWUNTRACKEDFILES=true
-export GIT_PS1_SHOWUPSTREAM=true
-
-export PROMPT_COMMAND='__git_ps1'
-
-</span><span class="err">EOF</span></code></pre></figure>
-
-<p>your prompt should now look like this:</p>
-
-<p><img src="/images/prompt.jpg" alt="emoji prompt" /></p>
-
-<p>key:</p>
-
-<ul>
-  <li>🚽 : unstaged (dirty)</li>
-  <li>⁉️ : untracked</li>
-  <li>✅ : staged</li>
-  <li>📬 : ahead of upstream</li>
-  <li>📪 : behind upstream</li>
-  <li>🆗 : synced upstream</li>
-</ul>
-
-<p>enjoy!</p>
-
-</div>
 
   </div>
-  <div>...</div>
-  <ul class="post-list">
-    
-      <li>
-        <span class="post-meta">Jul 17, 2016</span>
-  
-        <h2>
-          <a class="post-link" href="/bash/emoji/git/2016/07/17/emoji-your-git-prompt.html">fill your git prompt with emoji</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Jul 17, 2016</span>
-  
-        <h2>
-          <a class="post-link" href="/blog/2016/07/17/first-post.html">🤖  $(git commit -m "initial commit")</a>
-        </h2>
-      </li>
-    
-  </ul>
 
-</div>
+</article>
 
       </div>
     </div>
