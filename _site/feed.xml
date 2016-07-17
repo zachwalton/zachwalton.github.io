@@ -6,13 +6,13 @@
 </description>
     <link>http://zachwalton.com/</link>
     <atom:link href="http://zachwalton.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Jul 2016 15:56:01 -0700</pubDate>
-    <lastBuildDate>Sun, 17 Jul 2016 15:56:01 -0700</lastBuildDate>
+    <pubDate>Sun, 17 Jul 2016 16:43:26 -0700</pubDate>
+    <lastBuildDate>Sun, 17 Jul 2016 16:43:26 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>fill your git prompt with emoji</title>
-        <description>&lt;p&gt;every programmer should consider it a duty to put emoji everywhere they will fit. i use &lt;a href=&quot;https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh&quot;&gt;git-prompt.sh&lt;/a&gt; to track my repo status, but by default it’s a bit drab. luckily, it’s pretty easy to spruce up.&lt;/p&gt;
+        <description>&lt;p&gt;every programmer should consider it a duty to put emoji everywhere they can be rendered. i use &lt;a href=&quot;https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh&quot;&gt;git-prompt.sh&lt;/a&gt; to track my repo status, but by default it’s a bit drab. luckily, it’s pretty easy to spruce up.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://gist.github.com/zachwalton/c601a8057d1bf80aac1dc1215f7d9e45&quot;&gt;here’s the emoji version.&lt;/a&gt;&lt;/p&gt;
 
@@ -31,7 +31,7 @@ export PROMPT_COMMAND=&#39;__git_ps1&#39;
 
 &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;EOF&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;your prompt should now look like this:&lt;/p&gt;
+&lt;p&gt;your prompt should now look like this in git working directories:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/prompt.jpg&quot; alt=&quot;emoji prompt&quot; /&gt;&lt;/p&gt;
 
@@ -50,15 +50,9 @@ export PROMPT_COMMAND=&#39;__git_ps1&#39;
 
 </description>
         <pubDate>Sun, 17 Jul 2016 15:31:00 -0700</pubDate>
-        <link>http://zachwalton.com/bash/emoji/git/2016/07/17/emoji-your-git-prompt.html</link>
-        <guid isPermaLink="true">http://zachwalton.com/bash/emoji/git/2016/07/17/emoji-your-git-prompt.html</guid>
+        <link>http://zachwalton.com/2016/07/17/emoji-your-git-prompt.html</link>
+        <guid isPermaLink="true">http://zachwalton.com/2016/07/17/emoji-your-git-prompt.html</guid>
         
-        
-        <category>bash</category>
-        
-        <category>emoji</category>
-        
-        <category>git</category>
         
       </item>
     
@@ -68,11 +62,9 @@ export PROMPT_COMMAND=&#39;__git_ps1&#39;
 
 </description>
         <pubDate>Sun, 17 Jul 2016 09:28:18 -0700</pubDate>
-        <link>http://zachwalton.com/blog/2016/07/17/first-post.html</link>
-        <guid isPermaLink="true">http://zachwalton.com/blog/2016/07/17/first-post.html</guid>
+        <link>http://zachwalton.com/2016/07/17/first-post.html</link>
+        <guid isPermaLink="true">http://zachwalton.com/2016/07/17/first-post.html</guid>
         
-        
-        <category>blog</category>
         
       </item>
     
