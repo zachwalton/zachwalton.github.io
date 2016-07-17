@@ -1,0 +1,16 @@
+.github {
+  width: 200px;
+  font-size: 11px;
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 43px;
+  padding-top: 10px;
+  text-align: left;
+  float: left;
+  font-family: Verdana, arial, sans-serif;
+}
+.inner-content {
+  display: inline-block;
+  float: left;
+}
