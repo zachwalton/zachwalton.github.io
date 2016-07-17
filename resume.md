@@ -1,6 +1,6 @@
 ---
 layout: page
-title: résumé
+title: resumé
 permalink: /resume/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  old blog posts
+title: 🤖  $(git commit -m "initial commit")
 date:   2016-07-17 09:28:18 -0700
 categories: blog
 ---
