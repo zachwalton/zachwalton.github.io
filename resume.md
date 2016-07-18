@@ -8,14 +8,14 @@ software engineering @ .
 
 ### **software**
 
-every day:
-{% include icon-check-square-o.html %} `bin/python2.7`
+{% include skill-label.html text="every day:" %} {% include icon-check-square-o.html %} `bin/python2.7`
 {% include icon-check-square-o.html %} `django + django_rest_framework`
 {% include icon-check-square-o.html %} `celery`
 {% include icon-check-square-o.html %} `golang`
 
-occasionally:
-{% include icon-check-square-o.html %} `ruby`
+<div style="clear: left;"></div>
+
+{% include skill-label.html text="occasionally:" %} {% include icon-check-square-o.html %} `ruby`
 {% include icon-check-square-o.html %} `c`
 {% include icon-check-square-o.html %} `html`
 {% include icon-check-square-o.html %} `standard js`
@@ -27,21 +27,22 @@ occasionally:
 
 ### **infrastructure**
 
-every day:
-{% include icon-check-square-o.html %} `linux (debian + rhel)`
-{% include icon-check-square-o.html %} `macOS >= 10.9`
+{% include skill-label.html text="every day:" %} {% include icon-check-square-o.html %} `linux (debian + rhel+cent) `
+{% include icon-check-square-o.html %} `macOS`
+{% include icon-check-square-o.html %} `puppet`
 {% include icon-check-square-o.html %} `jenkins`
-{% include icon-check-square-o.html %} `nginx`
-{% include icon-check-square-o.html %} `heroku`
 {% include icon-check-square-o.html %} `github`
 {% include icon-check-square-o.html %} `gitlab`
-{% include icon-check-square-o.html %} `puppet`
-{% include icon-check-square-o.html %} `mesos` 
 {% include icon-check-square-o.html %} `docker`
+{% include icon-check-square-o.html %} `mesos`
+{% include icon-check-square-o.html %} `heroku`
+{% include icon-check-square-o.html %} `postgres`
+{% include icon-check-square-o.html %} `mysql`
+&nbsp;{% include icon-check-square-o.html %} `etcd`
+{% include icon-check-square-o.html %} `nginx`
 {% include icon-check-square-o.html %} `ceph`
 
-occasionally:
-{% include icon-check-square-o.html %} `chef`
+{% include skill-label.html text="occasionally:" %} {% include icon-check-square-o.html %} `chef`
 {% include icon-check-square-o.html %} `CDN`
 {% include icon-check-square-o.html %} `akamai GTM`
 {% include icon-check-square-o.html %} `zfs`
