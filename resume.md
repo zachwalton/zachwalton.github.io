@@ -8,7 +8,11 @@ software engineering @ .
 
 ### **software**
 
+<div>
+
 {% include skill-label.html text="every day:" %} <div class="skill-content" markdown="1">{% include icon-check-square-o.html skill="`bin/python2.7`" %} {% include icon-check-square-o.html skill="`django + django_rest_framework`" %} {% include icon-check-square-o.html skill="`celery`" %} {% include icon-check-square-o.html skill="`golang`" %}</div>
+
+</div>
 
 <div style="clear: both"></div>
 
