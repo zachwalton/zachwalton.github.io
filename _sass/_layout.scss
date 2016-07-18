@@ -241,9 +241,18 @@
     }
 }
 
+.skill {
+    white-space: nowrap;
+}
+
 .skill-label {
     width: 105px;
-    display: inline-block;
+    display: inline-flex;
     float: left;
-    margin-bottom: 40px;
+}
+
+.skill-content {
+    width: 85%;
+    display: inline-flex;
+    float: left;
 }

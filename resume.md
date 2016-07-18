@@ -8,50 +8,23 @@ software engineering @ .
 
 ### **software**
 
-{% include skill-label.html text="every day:" %} {% include icon-check-square-o.html %} `bin/python2.7`
-{% include icon-check-square-o.html %} `django + django_rest_framework`
-{% include icon-check-square-o.html %} `celery`
-{% include icon-check-square-o.html %} `golang`
+{% include skill-label.html text="every day:" %} <div class="skill-content" markdown="1">{% include icon-check-square-o.html skill="`bin/python2.7`" %} {% include icon-check-square-o.html skill="`django + django_rest_framework`" %} {% include icon-check-square-o.html skill="`celery`" %} {% include icon-check-square-o.html skill="`golang`" %}</div>
 
-<div style="clear: left;"></div>
+<div style="clear: both"></div>
 
-{% include skill-label.html text="occasionally:" %} {% include icon-check-square-o.html %} `ruby`
-{% include icon-check-square-o.html %} `c`
-{% include icon-check-square-o.html %} `html`
-{% include icon-check-square-o.html %} `standard js`
-{% include icon-check-square-o.html %} `es6`
-{% include icon-check-square-o.html %} `reactjs`
-{% include icon-check-square-o.html %} `bootstrapjs`
-{% include icon-check-square-o.html %} `angularjs`
-{% include icon-check-square-o.html %} `css3`
+{% include skill-label.html text="occasionally:" %} <div class="skill-content" markdown="1">{% include icon-check-square-o.html skill="`ruby`" %} {% include icon-check-square-o.html skill="`c`" %} {% include icon-check-square-o.html skill="`html`" %} {% include icon-check-square-o.html skill="`standard js`" %} {% include icon-check-square-o.html skill="`es6`" %} {% include icon-check-square-o.html skill="`reactjs`" %} {% include icon-check-square-o.html skill="`bootstrapjs`" %} {% include icon-check-square-o.html skill="`angularjs`" %} {% include icon-check-square-o.html skill="`css3`" %}</div>
+
+<div style="clear: both"></div>
 
 ### **infrastructure**
 
-{% include skill-label.html text="every day:" %} {% include icon-check-square-o.html %} `linux (debian + rhel+cent) `
-{% include icon-check-square-o.html %} `macOS`
-{% include icon-check-square-o.html %} `puppet`
-{% include icon-check-square-o.html %} `jenkins`
-{% include icon-check-square-o.html %} `github`
-{% include icon-check-square-o.html %} `gitlab`
-{% include icon-check-square-o.html %} `docker`
-{% include icon-check-square-o.html %} `mesos`
-{% include icon-check-square-o.html %} `heroku`
-{% include icon-check-square-o.html %} `postgres`
-{% include icon-check-square-o.html %} `mysql`
-&nbsp;{% include icon-check-square-o.html %} `etcd`
-{% include icon-check-square-o.html %} `nginx`
-{% include icon-check-square-o.html %} `ceph`
+{% include skill-label.html text="every day:" %} <div class="skill-content" markdown="1">{% include icon-check-square-o.html skill="`linux (debian + rhel)`" %} {% include icon-check-square-o.html skill="`macOS`" %} {% include icon-check-square-o.html skill="`puppet`" %} {% include icon-check-square-o.html skill="`jenkins`" %} {% include icon-check-square-o.html skill="`github`" %} {% include icon-check-square-o.html skill="`gitlab`" %} {% include icon-check-square-o.html skill="`docker`" %} {% include icon-check-square-o.html skill="`mesos`" %} {% include icon-check-square-o.html skill="`heroku`" %} {% include icon-check-square-o.html skill="`postgres`" %} {% include icon-check-square-o.html skill="`mysql`" %} {% include icon-check-square-o.html skill="`etcd`" %} {% include icon-check-square-o.html skill="`nginx`" %} {% include icon-check-square-o.html skill="`ceph`" %}</div>
 
-{% include skill-label.html text="occasionally:" %} {% include icon-check-square-o.html %} `chef`
-{% include icon-check-square-o.html %} `CDN`
-{% include icon-check-square-o.html %} `akamai GTM`
-{% include icon-check-square-o.html %} `zfs`
-{% include icon-check-square-o.html %} `zfs 7420`
-{% include icon-check-square-o.html %} `emc isilon`
-{% include icon-check-square-o.html %} `SAN`
-{% include icon-check-square-o.html %} `mellanox infiniband`
-{% include icon-check-square-o.html %} `bare metal deployment`
-{% include icon-check-square-o.html %} `kickstart`
+<div style="clear: both"></div>
+
+{% include skill-label.html text="occasionally:" %} <div class="skill-content" markdown="1">{% include icon-check-square-o.html skill="`chef`" %} {% include icon-check-square-o.html skill="`CDN`" %} {% include icon-check-square-o.html skill="`akami GTM`" %} {% include icon-check-square-o.html skill="`zfs`" %} {% include icon-check-square-o.html skill="`zfs 7420`" %} {% include icon-check-square-o.html skill="`emc isilon`" %} {% include icon-check-square-o.html skill="`SAN`" %} {% include icon-check-square-o.html skill="`mellanox infiniband`" %} {% include icon-check-square-o.html skill="`bare metal deployment`" %} {% include icon-check-square-o.html skill="`kickstart`" %}</div>
+
+<div style="clear: both"></div>
 
 ### **toolset**
 
