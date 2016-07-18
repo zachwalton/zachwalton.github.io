@@ -10,35 +10,57 @@ software engineering @ .
 
 every day:
 {% include icon-check-square-o.html %} `bin/python2.7`
- `django + django_rest_framework`
- `celery`
- `golang`
+{% include icon-check-square-o.html %} `django + django_rest_framework`
+{% include icon-check-square-o.html %} `celery`
+{% include icon-check-square-o.html %} `golang`
 
 occasionally:
-{% include icon-check-square-o.html %}`ruby`  `c` `standard js` `es6` `reactjs` `bootstrapjs` `angularjs` `html` `css3`
+{% include icon-check-square-o.html %} `ruby`
+{% include icon-check-square-o.html %} `c`
+{% include icon-check-square-o.html %} `html`
+{% include icon-check-square-o.html %} `standard js`
+{% include icon-check-square-o.html %} `es6`
+{% include icon-check-square-o.html %} `reactjs`
+{% include icon-check-square-o.html %} `bootstrapjs`
+{% include icon-check-square-o.html %} `angularjs`
+{% include icon-check-square-o.html %} `css3`
 
 ### **infrastructure**
 
 every day:
 {% include icon-check-square-o.html %} `linux (debian + rhel)`
- `macOS >= 10.9`
- `jenkins`
- `nginx`
- `heroku`
- `github`
- `gitlab`
- `puppet`
- `mesos` 
- `docker`
- `ceph`
+{% include icon-check-square-o.html %} `macOS >= 10.9`
+{% include icon-check-square-o.html %} `jenkins`
+{% include icon-check-square-o.html %} `nginx`
+{% include icon-check-square-o.html %} `heroku`
+{% include icon-check-square-o.html %} `github`
+{% include icon-check-square-o.html %} `gitlab`
+{% include icon-check-square-o.html %} `puppet`
+{% include icon-check-square-o.html %} `mesos` 
+{% include icon-check-square-o.html %} `docker`
+{% include icon-check-square-o.html %} `ceph`
 
 occasionally:
+{% include icon-check-square-o.html %} `chef`
+{% include icon-check-square-o.html %} `CDN`
+{% include icon-check-square-o.html %} `akamai GTM`
+{% include icon-check-square-o.html %} `zfs`
+{% include icon-check-square-o.html %} `zfs 7420`
+{% include icon-check-square-o.html %} `emc isilon`
+{% include icon-check-square-o.html %} `SAN`
+{% include icon-check-square-o.html %} `mellanox infiniband`
 {% include icon-check-square-o.html %} `bare metal deployment`
-`kickstart` `chef` `emc isilon` `zfs` `zfs 7420` `SAN` `mellanox infiniband` `CDN` `akamai GTM`
+{% include icon-check-square-o.html %} `kickstart`
 
 ### **toolset**
 
-{% include icon-check-square-o.html %} `macOS` `linux (debian + rhel)` `vim` `macvim` `ansible` `git` `bash`
+{% include icon-check-square-o.html %} `macOS`
+{% include icon-check-square-o.html %} `linux (debian + rhel)`
+{% include icon-check-square-o.html %} `vim`
+{% include icon-check-square-o.html %} `macvim`
+{% include icon-check-square-o.html %} `ansible`
+{% include icon-check-square-o.html %} `git`
+{% include icon-check-square-o.html %} `bash`
 
 ### **experience**
 
