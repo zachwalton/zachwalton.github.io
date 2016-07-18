@@ -32,14 +32,7 @@ software engineering @ .
 
 ### **toolset**
 
-{% include icon-check-square-o.html %} `macOS`
-{% include icon-check-square-o.html %} `linux (debian + rhel)`
-{% include icon-check-square-o.html %} `vim`
-{% include icon-check-square-o.html %} `macvim`
-{% include icon-check-square-o.html %} `ansible`
-{% include icon-check-square-o.html %} `git`
-{% include icon-check-square-o.html %} `bash`
-
+{% include icon-check-square-o.html skill="`macOS`" %} {% include icon-check-square-o.html skill="`linux (debian + rhel`" %} {% include icon-check-square-o.html skill="`vim`" %} {% include icon-check-square-o.html skill="`macvim`" %} {% include icon-check-square-o.html skill="`ansible`" %} {% include icon-check-square-o.html skill="`git`" %} {% include icon-check-square-o.html skill="`basy`" %} 
 ### **experience**
 
 ####  **apple**
