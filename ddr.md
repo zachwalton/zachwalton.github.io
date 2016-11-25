@@ -6,6 +6,12 @@ permalink: /ddr/
 
 Dance Dance Revolution PFCs (perfect full combos)
 
+#### **#27** 魔理沙は大変なものを盗んでいきました
+![](/images/pfc/27_魔理沙は大変なものを盗んでいきました.jpg)
+
+#### **#26** きゅん×きゅんばっきゅん☆ LOVE
+![](/images/pfc/26_きゅん×きゅんばっきゅん☆LOVE.jpg)
+
 #### **#25** この青空の下で
 ![](/images/pfc/25_この青空の下で.jpg)
 
