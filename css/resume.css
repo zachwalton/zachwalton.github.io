@@ -1,0 +1,18 @@
+#resume {
+    font-family: Hack, monospace;
+}
+p.resume {
+    font-size: 13px;
+}
+li.resume {
+    font-size: 13px;
+}
+.resume h3 {
+    font-size: 19px !important;
+}
+.resume h4 {
+    font-size: 14px !important;
+}
+.skills {
+    margin-top: 120px;
+}

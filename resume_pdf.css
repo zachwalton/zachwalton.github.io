@@ -1,0 +1,18 @@
+html * {
+    font-family: "Hack"; 
+}
+p, li {
+    font-size: 11px;
+}
+h3 {
+    font-size: 19px !important;
+}
+h4 {
+    font-size: 14px !important;
+}
+.skills {
+    margin-top: 120px;
+}
+/*.pagebreak-li {
+    margin-top: 150px;
+}*/
