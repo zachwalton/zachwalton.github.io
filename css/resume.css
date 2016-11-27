@@ -7,10 +7,10 @@ p.resume {
 li.resume {
     font-size: 13px;
 }
-.resume h3 {
+h3.resume {
     font-size: 19px !important;
 }
-.resume h4 {
+h4.resume {
     font-size: 14px !important;
 }
 .skills {
