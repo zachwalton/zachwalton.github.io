@@ -12,6 +12,7 @@ h3.resume {
 }
 h4.resume {
     font-size: 14px !important;
+    line-height: 18px;
 }
 .skills {
     margin-top: 120px;
