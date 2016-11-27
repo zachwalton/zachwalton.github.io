@@ -6,6 +6,21 @@ permalink: /ddr/
 
 Dance Dance Revolution PFCs (perfect full combos)
 
+#### **#32** In The Air
+![](/images/pfc/32_In The Air.jpg)
+
+#### **#31** Mermaid girl
+![](/images/pfc/31_Mermaid girl.jpg)
+
+#### **#30** ハピ恋☆らぶりぃタイム!!
+![](/images/pfc/30_ハピ恋☆らぶりぃタイム!!.jpg)
+
+#### **#29** DANCE ALL NIGHT (DDR EDITION)
+![](/images/pfc/29_DANCE ALL NIGHT (DDR EDITION).jpg)
+
+#### **#28** Dazzlin' Darlin
+![](/images/pfc/28_Dazzlin' Darlin.jpg)
+
 #### **#27** 魔理沙は大変なものを盗んでいきました
 ![](/images/pfc/27_魔理沙は大変なものを盗んでいきました.jpg)
 
