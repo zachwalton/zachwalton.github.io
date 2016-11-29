@@ -6,6 +6,12 @@ permalink: /ddr/
 
 Dance Dance Revolution PFCs (perfect full combos)
 
+#### **#34** BURNIN' THE FLOOR
+![](/images/pfc/34_BURNIN' THE FLOOR.jpg)
+
+#### **#33** escape
+![](/images/pfc/33_escape.jpg)
+
 #### **#32** In The Air
 ![](/images/pfc/32_In The Air.jpg)
 
