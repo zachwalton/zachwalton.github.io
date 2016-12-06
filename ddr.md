@@ -6,6 +6,12 @@ permalink: /ddr/
 
 Dance Dance Revolution PFCs (perfect full combos)
 
+#### **#36** PARANOiA KCET ~clean mix~
+![](/images/pfc/36_PARANOiA KCET ~clean mix~.jpg)
+
+#### **#35** JOKER
+![](/images/pfc/35_JOKER.jpg)
+
 #### **#34** BURNIN' THE FLOOR
 ![](/images/pfc/34_BURNIN' THE FLOOR.jpg)
 
