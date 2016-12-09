@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TCP health checks for postgres
+title: L7 health checks for postgres via netcat
 date:   2016-12-08 15:30:00 -0700
 #categories: blog
 ---
