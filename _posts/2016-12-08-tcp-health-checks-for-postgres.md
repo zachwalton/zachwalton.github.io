@@ -31,7 +31,7 @@ USERNAME="username"
 # Calculate the packet length
 PACKET_SIZE="\x00\x00\x00\x$(printf '%02x' $((
   4 +
-  ${#PROTOCOL_VERSION} +
+  ${#PROTOCOL_VERSION} / 4 +
   ${#COMMAND} +
   1 +
   ${#USERNAME} +
@@ -50,4 +50,64 @@ test "$(
 )" == "R"
 {% endhighlight %}
 
-It turns out that at least for protocol version 3, any username will pass this healthcheck; so it should be fine to copy/paste the one-liner, which saves you the trouble of managing a valid username. But for "correctness", you can use your own if desired as illustrated above.
+And finally as a function:
+
+{% highlight bash %}
+function pgping() {
+  help_flags=(help -h --help)
+  if [[ ${help_flags[*]} =~ "$1" ]] || ([ -z "$1" ] || [ -z "$2" ]); then
+    echo "usage:"
+    echo
+    echo "pgping <server> <port> [<username>]"
+    return 0
+  fi
+
+  PROTOCOL_VERSION="\x00\x03\x00\x00"
+  COMMAND="user"
+
+  NC_TIMEOUT=3
+
+  POSTGRES_SERVER=$1
+  POSTGRES_PORT=$2
+  if [ ! -z "$3" ]; then
+    USERNAME=$3
+  else
+    USERNAME="username"
+  fi
+
+  PACKET_SIZE="\x00\x00\x00\x$(printf '%02x' $((
+    4 +
+    ${#PROTOCOL_VERSION} / 4 +
+    ${#COMMAND} +
+    1 +
+    ${#USERNAME} +
+    2
+  )))"
+
+  test "$(
+    echo -ne "${PACKET_SIZE}${PROTOCOL_VERSION}${COMMAND}\x00${USERNAME}\x00\x00" |
+    nc -w $NC_TIMEOUT $POSTGRES_SERVER $POSTGRES_PORT 2>/dev/null | head -c1
+  )" == "R"
+
+  if [ $? -eq 0 ]; then
+    echo "health check passed"
+    return 0
+  else
+    echo "health check failed"
+    return 1
+  fi
+}
+
+$ pgping -h
+usage:
+
+pgping <server> <port> [<username>]
+$ pgping postgres-server.your-company.com 5432
+health check passed
+$ pgping postgres-server.your-company.com 5432 your_username
+health check passed
+$ pgping 169.254.0.1 12345
+health check failed
+{% endhighlight %}
+
+It turns out that at least for protocol version 3, any username will pass this health check; so it should be fine to copy/paste the one-liner, which saves you the trouble of managing a valid username. But for "correctness", you can use your own if desired as illustrated above.
