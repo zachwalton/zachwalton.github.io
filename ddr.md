@@ -6,6 +6,12 @@ permalink: /ddr/
 
 Dance Dance Revolution PFCs (perfect full combos)
 
+#### **#38** KEEP ON MOVIN'
+![](/images/pfc/38_KEEP ON MOVIN'.jpg)
+
+#### **#37** 倉野川音頭
+![](/images/pfc/37_倉野川音頭.jpg)
+
 #### **#36** PARANOiA KCET ~clean mix~
 ![](/images/pfc/36_PARANOiA KCET ~clean mix~.jpg)
 
