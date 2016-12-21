@@ -6,6 +6,15 @@ permalink: /ddr/
 
 Dance Dance Revolution PFCs (perfect full combos)
 
+#### **#41** さよならトリップ ～夏陽 EDM edition～
+![](/images/pfc/41_さよならトリップ ～夏陽 EDM edition～.jpg)
+
+#### **#40** Let's Get Away
+![](/images/pfc/40_Let's Get Away.jpg)
+
+#### **#39** Dazzlin' Darlin-秋葉工房mix-
+![](/images/pfc/39_Dazzlin' Darlin-秋葉工房mix-.jpg)
+
 #### **#38** KEEP ON MOVIN'
 ![](/images/pfc/38_KEEP ON MOVIN'.jpg)
 
