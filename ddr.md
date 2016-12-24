@@ -6,6 +6,39 @@ permalink: /ddr/
 
 Dance Dance Revolution PFCs (perfect full combos)
 
+#### **#52** SP-TRIP MACHINE～JUNGLE MIX～
+![](/images/pfc/52_SP-TRIP MACHINE～JUNGLE MIX～.jpg)
+
+#### **#51** GENOM SCREAMS
+![](/images/pfc/51_GENOM SCREAMS.jpg)
+
+#### **#50** BRILLIANT 2U (challenge)
+![](/images/pfc/50_BRILLIANT 2U (challenge).jpg)
+
+#### **#49** BRILLIANT 2U
+![](/images/pfc/49_BRILLIANT 2U.jpg)
+
+#### **#48** AM-3P
+![](/images/pfc/48_AM-3P.jpg)
+
+#### **#47** MAKE IT BETTER
+![](/images/pfc/47_MAKE IT BETTER.jpg)
+
+#### **#46** PARANOiA
+![](/images/pfc/46_PARANOiA.jpg)
+
+#### **#45** TRIP MACHINE
+![](/images/pfc/45_TRIP MACHINE.jpg)
+
+#### **#44** サナ・モレッテ・ネ・エンテ
+![](/images/pfc/44_サナ・モレッテ・ネ・エンテ.jpg)
+
+#### **#43** only my railgun
+![](/images/pfc/43_only my railgun.jpg)
+
+#### **#42** Mind Parasite
+![](/images/pfc/42_Mind Parasite.jpg)
+
 #### **#41** さよならトリップ ～夏陽 EDM edition～
 ![](/images/pfc/41_さよならトリップ ～夏陽 EDM edition～.jpg)
 
