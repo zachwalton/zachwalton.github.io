@@ -6,6 +6,15 @@ permalink: /ddr/
 
 Dance Dance Revolution PFCs (perfect full combos)
 
+#### **#55** Silent Hill
+![](/images/pfc/55_Silent Hill.jpg)
+
+#### **#54** La Señorita Virtual
+![](/images/pfc/54_La Señorita Virtual.jpg)
+
+#### **#53** TRIP MACHINE ~luv mix~
+![](/images/pfc/53_TRIP MACHINE ~luv mix~.jpg)
+
 #### **#52** SP-TRIP MACHINE～JUNGLE MIX～
 ![](/images/pfc/52_SP-TRIP MACHINE～JUNGLE MIX～.jpg)
 
