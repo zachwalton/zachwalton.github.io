@@ -6,6 +6,15 @@ permalink: /ddr/
 
 Dance Dance Revolution PFCs (perfect full combos)
 
+#### **#58** think ya better D
+![](/images/pfc/58_think ya better D.jpg)
+
+#### **#57** PUT YOUR FAITH IN ME (Jazzy Groove)
+![](/images/pfc/57_PUT YOUR FAITH IN ME (Jazzy Groove).jpg)
+
+#### **#56** e-motion
+![](/images/pfc/56_e-motion.jpg)
+
 #### **#55** Silent Hill
 ![](/images/pfc/55_Silent Hill.jpg)
 
