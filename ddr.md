@@ -6,6 +6,42 @@ permalink: /ddr/
 
 Dance Dance Revolution PFCs (perfect full combos)
 
+#### **#70** DEAD END
+![](/images/pfc/70_DEAD END.jpg)
+
+#### **#69** AFRONOVA
+![](/images/pfc/69_AFRONOVA.jpg)
+
+#### **#68** PARANOiA Rebirth
+![](/images/pfc/68_PARANOiA Rebirth.jpg)
+
+#### **#67** La Señorita
+![](/images/pfc/67_La Señorita.jpg)
+
+#### **#66** LOVE THIS FEELIN'
+![](/images/pfc/66_LOVE THIS FEELIN'.jpg)
+
+#### **#65** CUTIE CHASER
+![](/images/pfc/65_CUTIE CHASER.jpg)
+
+#### **#64** DYNAMITE RAVE
+![](/images/pfc/64_DYNAMITE RAVE.jpg)
+
+#### **#63** DROP THE BOMB
+![](/images/pfc/63_DROP THE BOMB.jpg)
+
+#### **#62** AFTER THE GAME OF LOVE
+![](/images/pfc/62_AFTER THE GAME OF LOVE.jpg)
+
+#### **#61** MAKE IT BETTER (So-REAL Mix)
+![](/images/pfc/61_MAKE IT BETTER (So-REAL Mix).jpg)
+
+#### **#60** PARANOiA MAX ~DIRTY MIX~
+![](/images/pfc/60_PARANOiA MAX ~DIRTY MIX~.jpg)
+
+#### **#59** PUT YOUR FAITH IN ME
+![](/images/pfc/59_PUT YOUR FAITH IN ME.jpg)
+
 #### **#58** think ya better D
 ![](/images/pfc/58_think ya better D.jpg)
 
