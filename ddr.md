@@ -6,6 +6,12 @@ permalink: /ddr/
 
 Dance Dance Revolution PFCs (perfect full combos)
 
+#### **#72** Let the beat hit em! (CLASSIC R&B STYLE)
+![](/images/pfc/72_Let the beat hit em! (CLASSIC R&B STYLE).jpg)
+
+#### **#71** Holic
+![](/images/pfc/71_Holic.jpg)
+
 #### **#70** DEAD END
 ![](/images/pfc/70_DEAD END.jpg)
 
