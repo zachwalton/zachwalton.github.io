@@ -6,6 +6,15 @@ permalink: /ddr/
 
 Dance Dance Revolution PFCs (perfect full combos)
 
+#### **#75** The Night Away (MK Remix)
+![](/images/pfc/75_The Night Away (MK Remix).jpg)
+
+#### **#74** .59
+![](/images/pfc/74_.59.jpg)
+
+#### **#73** パ→ピ→プ→Yeah!
+![](/images/pfc/73_パ→ピ→プ→Yeah!.jpg)
+
 #### **#72** Let the beat hit em! (CLASSIC R&B STYLE)
 ![](/images/pfc/72_Let the beat hit em! (CLASSIC R&B STYLE).jpg)
 
