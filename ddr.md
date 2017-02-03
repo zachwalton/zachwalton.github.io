@@ -6,6 +6,12 @@ permalink: /ddr/
 
 Dance Dance Revolution PFCs (perfect full combos)
 
+#### **#77** 恋愛観測
+![](/images/pfc/77_恋愛観測.jpg)
+
+#### **#76** PARANOIA EVOLUTION
+![](/images/pfc/76_PARANOIA EVOLUTION.jpg)
+
 #### **#75** The Night Away (MK Remix)
 ![](/images/pfc/75_The Night Away (MK Remix).jpg)
 
