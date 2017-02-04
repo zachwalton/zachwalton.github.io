@@ -6,6 +6,33 @@ permalink: /ddr/
 
 Dance Dance Revolution PFCs (perfect full combos)
 
+#### **#86** DXY!
+![](/images/pfc/86_DXY!.jpg)
+
+#### **#85** STILL IN MY HEART
+![](/images/pfc/85_STILL IN MY HEART.jpg)
+
+#### **#84** BABY BABY GIMME YOUR LOVE
+![](/images/pfc/84_BABY BABY GIMME YOUR LOVE.jpg)
+
+#### **#83** POSSESSION (EDP Live Mix)
+![](/images/pfc/83_POSSESSION (EDP Live Mix).jpg)
+
+#### **#82** Air Heroes
+![](/images/pfc/82_Air Heroes.jpg)
+
+#### **#81** 321 STARS
+![](/images/pfc/81_321 STARS.jpg)
+
+#### **#80** SEXY PLANET
+![](/images/pfc/80_SEXY PLANET.jpg)
+
+#### **#79** xenon
+![](/images/pfc/79_xenon.jpg)
+
+#### **#78** B4U
+![](/images/pfc/78_B4U.jpg)
+
 #### **#77** 恋愛観測
 ![](/images/pfc/77_恋愛観測.jpg)
 
