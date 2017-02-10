@@ -6,6 +6,12 @@ permalink: /ddr/
 
 Dance Dance Revolution PFCs (perfect full combos)
 
+#### **#88** CAN'T STOP FALLIN' IN LOVE
+![](/images/pfc/88_CAN'T STOP FALLIN' IN LOVE.jpg)
+
+#### **#87** CELEBRATE NITE
+![](/images/pfc/87_CELEBRATE NITE.jpg)
+
 #### **#86** DXY!
 ![](/images/pfc/86_DXY!.jpg)
 
