@@ -6,6 +6,39 @@ permalink: /ddr/
 
 Dance Dance Revolution PFCs (perfect full combos)
 
+#### **#99** Electro Tuned (the SubS mix)
+![](/images/pfc/99_Electro Tuned (the SubS mix).jpg)
+
+#### **#98** TRIP MACHINE CLIMAX
+![](/images/pfc/98_TRIP MACHINE CLIMAX.jpg)
+
+#### **#97** LOVE AGAIN TONIGHT ~For Melissa MIX~
+![](/images/pfc/97_LOVE AGAIN TONIGHT ~For Melissa MIX~.jpg)
+
+#### **#96** HIGHER
+![](/images/pfc/96_HIGHER.jpg)
+
+#### **#95** Don't Stop!～AMD 2nd MIX～
+![](/images/pfc/95_Don't Stop!～AMD 2nd MIX～.jpg)
+
+#### **#94** HYSTERIA
+![](/images/pfc/94_HYSTERIA.jpg)
+
+#### **#93** Desert Journey
+![](/images/pfc/93_Desert Journey.jpg)
+
+#### **#92** Hillbilly Shoes
+![](/images/pfc/92_Hillbilly Shoes.jpg)
+
+#### **#91** ハッピーシンセサイザ
+![](/images/pfc/91_ハッピーシンセサイザ.jpg)
+
+#### **#90** 黒髪乱れし修羅となりて～凛 edition～
+![](/images/pfc/90_黒髪乱れし修羅となりて～凛 edition～.jpg)
+
+#### **#89** 夏色DIARY -DDR mix-
+![](/images/pfc/89_夏色DIARY -DDR mix-.jpg)
+
 #### **#88** CAN'T STOP FALLIN' IN LOVE
 ![](/images/pfc/88_CAN'T STOP FALLIN' IN LOVE.jpg)
 
