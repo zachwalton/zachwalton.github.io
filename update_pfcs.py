@@ -27,7 +27,7 @@ def wait_for_image(image_dir):
     next_pfc = int(sorted([ s.split('_')[0] for s in os.listdir(image_dir) if s[0] in string.digits ], key=int)[-1]) + 1
     while 1:
         try:
-            return next_pfc, [ f for f in os.listdir(image_dir) if f.startswith("IMG") ][0]
+            return next_pfc, sorted([ f for f in os.listdir(image_dir) if f.startswith("IMG") ])[0]
         except IndexError:
             print "Waiting for IMGXXX.JPG to show up in %s..." % image_dir
             time.sleep(1)
