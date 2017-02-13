@@ -3,7 +3,7 @@ layout: none
 ---
 {
   "posts" : [
-    {% for post in site.posts %}
+    {% for post in site.categories.ddr %}
     "{{ post.url }}"{% unless forloop.last %},{% endunless %}
     {% endfor %}
   ]

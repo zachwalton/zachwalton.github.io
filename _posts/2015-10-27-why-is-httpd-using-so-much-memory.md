@@ -2,7 +2,7 @@
 layout: post
 title: why is httpd using so much memory, ffs?
 date:   2015-10-27 12:31:00 -0700
-#categories: 
+categories: blog
 ---
 
 let's find out.

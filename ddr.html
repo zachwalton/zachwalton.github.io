@@ -1,0 +1,24 @@
+---
+layout: default
+title: DDR
+permalink: /ddr/
+---
+
+<h3>Dance Dance Revolution PFCs (perfect full combos)</h3>
+<br />
+
+  <ul class="post-list">
+    {% for post in site.categories.ddr limit: 1 %}
+      <li>
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+          <div class="post-content" itemprop="articleBody">
+            {{ content }}
+          </div>
+
+        </article>
+      </li>
+    {% endfor %}
+  </ul>
+
+<div class="infinite-spinner"></div>

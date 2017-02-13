@@ -2,7 +2,7 @@
 layout: post
 title: fill your git prompt with emoji
 date:   2016-07-17 15:31:00 -0700
-#categories: 
+categories: blog
 ---
 
 every programmer should consider it a duty to put emoji everywhere they can be rendered. i use [git-prompt.sh][git-prompt] to track my repo status, but by default it's a bit drab. luckily, it's pretty easy to spruce up.

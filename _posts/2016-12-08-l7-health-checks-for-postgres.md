@@ -2,7 +2,7 @@
 layout: post
 title: L7 health checks for postgres via netcat
 date:   2016-12-08 15:30:00 -0700
-#categories: blog
+categories: blog
 ---
 
 We had a need to health check postgres in an environment that didn't have a client available. It's difficult to figure out a way to do this from the [protocol documentation](https://www.postgresql.org/docs/9.6/static/protocol-overview.html#PROTOCOL-MESSAGE-CONCEPTS), and not much fun to derive from [libpq's source code](https://github.com/postgres/postgres/tree/master/src/interfaces/libpq) either.
