@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/zachwalton
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://zachwalton.com
+  * I am zachwalton (https://keybase.io/zachwalton) on keybase.
+  * I have a public key ASDSRXIphhDdORuYOPDX_p53YEa4nFWY0mhNzo3sGGFNRgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120d24572298610dd391b9838f0d7fe9e776046b89c5598d2684dce8dec18614d460a",
+            "host": "keybase.io",
+            "kid": "0120d24572298610dd391b9838f0d7fe9e776046b89c5598d2684dce8dec18614d460a",
+            "uid": "d68382147b5bd16cb2aec2bdd4dcbf19",
+            "username": "zachwalton"
+        },
+        "merkle_root": {
+            "ctime": 1499732164,
+            "hash": "8c75f732ba0def8699afae7bbecd44aea4648a07ed2bb6815c3f33c780f5d3d2be91adf0b2b890d834095c22e0bc7d79a8d06a29166cbd90a64be67fee803e33",
+            "hash_meta": "aba10824cbc7c1c93be80721c4bcb61d40c81e3b9b8c8156156061b5f4bfbb95",
+            "seqno": 1224076
+        },
+        "service": {
+            "hostname": "zachwalton.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1499732184,
+    "expire_in": 504576000,
+    "prev": "bc5daece34c32d9d28b25d8be01f0ebfdd1bf95c476f72cb643f8319c5c3fc2e",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0kVyKYYQ3TkbmDjw1/6ed2BGuJxVmNJoTc6N7BhhTUYKp3BheWxvYWTFA0h7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZDI0NTcyMjk4NjEwZGQzOTFiOTgzOGYwZDdmZTllNzc2MDQ2Yjg5YzU1OThkMjY4NGRjZThkZWMxODYxNGQ0NjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDI0NTcyMjk4NjEwZGQzOTFiOTgzOGYwZDdmZTllNzc2MDQ2Yjg5YzU1OThkMjY4NGRjZThkZWMxODYxNGQ0NjBhIiwidWlkIjoiZDY4MzgyMTQ3YjViZDE2Y2IyYWVjMmJkZDRkY2JmMTkiLCJ1c2VybmFtZSI6InphY2h3YWx0b24ifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTk3MzIxNjQsImhhc2giOiI4Yzc1ZjczMmJhMGRlZjg2OTlhZmFlN2JiZWNkNDRhZWE0NjQ4YTA3ZWQyYmI2ODE1YzNmMzNjNzgwZjVkM2QyYmU5MWFkZjBiMmI4OTBkODM0MDk1YzIyZTBiYzdkNzlhOGQwNmEyOTE2NmNiZDkwYTY0YmU2N2ZlZTgwM2UzMyIsImhhc2hfbWV0YSI6ImFiYTEwODI0Y2JjN2MxYzkzYmU4MDcyMWM0YmNiNjFkNDBjODFlM2I5YjhjODE1NjE1NjA2MWI1ZjRiZmJiOTUiLCJzZXFubyI6MTIyNDA3Nn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ6YWNod2FsdG9uLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjQifSwiY3RpbWUiOjE0OTk3MzIxODQsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiYmM1ZGFlY2UzNGMzMmQ5ZDI4YjI1ZDhiZTAxZjBlYmZkZDFiZjk1YzQ3NmY3MmNiNjQzZjgzMTljNWMzZmMyZSIsInNlcW5vIjoxMSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDuP45wHQsKQnXGnfMvt2gq49/VoNoGcMD4xKNwk1M4RwieAM+D3Ro+MpL5Mux9iOBt/e7IKOCkD6cORNjAgmYHqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgsUPFGJ5aSfzhswHIg/HqnhCGvK6AmTMch+ZwbKmS7QOjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zachwalton
+
+==================================================================
