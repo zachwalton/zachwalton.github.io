@@ -15,7 +15,7 @@ categories: ddr
 """
 
 pfc_markdown_template = """
-#### **#{next_pfc}** {song}<span class="pull-right">{{ page.date | date_to_long_string }}</span>
+#### **#{next_pfc}** {song}<span class="pull-right">{{{{ page.date | date_to_long_string }}}}</span>
 ![](/{image_dir}/{next_pfc}_{song}.jpg)
 """
 
