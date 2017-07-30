@@ -6,4 +6,4 @@ categories: ddr
 ---
 
 #### 5th mix folder finished!<span class="pull-right">{{ page.date | date_to_long_string }}</span>
-![](/images/pfc/5th_mix_folder.jpg)
+![](/images/pfc/+5th_mix_folder.jpg)

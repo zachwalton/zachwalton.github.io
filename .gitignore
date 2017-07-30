@@ -2,3 +2,4 @@
 .sass-cache/
 _site/
 new_pfcs.txt
+.DS_Store
