@@ -27,7 +27,7 @@
                             <h3>ZACH WALTON</h3>
                             <p>
                                 software engineer @ &#xF8FF; <br/>
-                                oakland, california<br /><br />
+                                san francisco, california<br /><br />
                                 &#x1F4F1; (502) 297-1014<br />
                                 &#x1F4E9; zacwalt@gmail.com
                             </p>
@@ -35,55 +35,75 @@
                     </div>
                 </div>
                 <hr />
-                <h4>what i do every day:</h4>
+                <h4>what i do every day</h4>
                 <div class="row">
                     <div class="col-xs-6">
                         <ul>
-                            <li>bin/python2.7 + py.test + pypi</li>
-                            <li>django + django_rest_framework</li>
-                            <li>angularjs</li>
-                            <li>css layouts / bootstrap</li>
+                            <li>golang</li>
+                            <li>ruby (/ on rails)</li>
+                            <li>postgresql (activerecord + administration)</li>
+                            <li>cassandra</li>
+                            <li>RESTful API design</li>
+                            <li>protobuf + grpc</li>
                         </ul>
                     </div>
                     <div class="col-xs-6">
                         <ul>
-                            <li>html5</li>
-                            <li>REST</li>
-                            <li>golang</li>
-                            <li>mysql</li>
+                            <li>splunk</li>
+                            <li>docker</li>
+                            <li>mesos + jarvis (mesos scheduler)</li>
+                            <li>puppet + hiera</li>
                             <li>linux (administration + automation + perf)</li>
                         </ul>
                     </div>
                 </div>
-                <h4>what i'm familiar with:</h4>
+                <h4>what i'm familiar with</h4>
                 <div class="row">
                     <div class="col-xs-6">
                         <ul>
-                            <li>docker</li>
-                            <li>ruby</li>
-                            <li>c</li>
-                            <li>standard js</li>
-                            <li>reactjs</li>
+                            <li>swagger / openapi</li>
+                            <li>kotlin</li>
+                            <li>distributed tracing (zipkin, opentracing)</li>
+                            <li>redis</li>
+                            <li>hdfs</li>
+                            <li>kubernetes</li>
+                        </ul>
+                    </div>
+                </div>
+                <h4>in past lives + hobbyism</h4>
+                <div class="row">
+                    <div class="col-xs-6">
+                        <ul>
+                            <li>html5</li>
+                            <li>css</li>
+                            <li>bin/python2.7 + py.test + pypi</li>
+                            <li>django + django_rest_framework</li>
                         </ul>
                     </div>
                     <div class="col-xs-6">
                         <ul>
-                            <li>css3</li>
-                            <li>postgresql</li>
-                            <li>protobuf</li>
-                            <li>puppet</li>
-                            <li>chef</li>
+                            <li>angularjs</li>
+                            <li>standard js</li>
+                            <li>reactjs</li>
+                            <li>backboneJS</li>
                         </ul>
                     </div>
                 </div>
                 <h3>PROJECT HIGHLIGHTS</h3>
                 <hr />
+                <h4>pie</h4>
                 <ul>
                     <li>
-                        <p>Architected and prototyped node quorum algorithm for production Maps deployments. The result was that we moved from daily human intervention in production deployment plans to fully automated node eviction and an overall 40% reduction in activation time.
+                        <p>Designed, implemented, and shipped PIE Deployment Service, a gRPC service written in Go and deployed on Cassandra, used for large-scale batch scheduling on Mesos</p>
+                    </li>
+                </ul>
+                <h4>maps</h4>
+                <ul>
+                    <li>
+                        <p>Architected automated node eviction for production Maps deployments. Worked with developers to implement to spec. The result was that we moved from daily human intervention in production deployments to fully automated node eviction and an overall 40% reduction in deployment time.
                     </li>
                     <li>
-                        <p>Architected and prototyped BitTorrent-based WAN data distribution service. This resulted in reducing daily average deployment time from 4 hours to 1h30m, and reduced daily egress bandwidth from our source data center by 85%.</p>
+                        <p>Architected and implemented BitTorrent-based WAN data transfers for daily Maps production deployments. This resulted in reducing daily average deployment time from 4 hours to 1h30m, and reduced daily egress bandwidth from our origin data center by 85%.</p>
                     </li>
                     <li class="pagebreak-li">
                         <p>Created reactJS + django service with the result of fully automating Maps environment creation. This transformed a week-long, error-prone manual process with hundreds of mutable properties into a repeatable one that takes 10-20 minutes on average.</p>
@@ -92,8 +112,17 @@
                 <h3>EXPERIENCE</h3>
                 <hr />
                 <h4>
-                    <span class="label label-default">03/2015 - present</span>
-                    software engineer / apple
+                    <span class="label label-default">11/2016 - present</span>
+                    software engineer / pie / apple
+                </h4>
+                <br />
+                <p>
+                    Maintained <a href="https://orchard.apple.com">Orchard</a>, a Heroku-style PaaS written in Ruby on Rails on PostgreSQL. Contributed major feature work and tooling to PIE's application orchestrator (also Ruby on Rails on PostgreSQL), responsible for scheduling thousands of applications across multiple data centers. Designed, implemented, and shipped PIE Deployment Service, a gRPC service written in Go and deployed on Cassandra, used for large-scale batch scheduling on Mesos. Implemented key features for PIE Entitlement Service, a centralized service for storing SDN policies for application identities deployed on various infrastructure across Apple. On-call rotation and ongoing tooling creation and support for all of the above.
+                </p>
+                <br />
+                <h4>
+                    <span class="label label-default">03/2015 - 11/2016</span>
+                    software engineer / maps / apple
                 </h4>
                 <br />
                 <p>
